@@ -1,3 +1,0 @@
-git add .github/workflows/build-apk.yml
-git commit -m "Full Android SDK setup for build"
-git push
